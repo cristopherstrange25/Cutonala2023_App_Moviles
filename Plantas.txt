@@ -1,5 +1,7 @@
 Plantas:
 Roble
 Rosas
+Girasol
+Milpa
 Manzano
 Naranjo

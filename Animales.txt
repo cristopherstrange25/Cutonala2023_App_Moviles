@@ -1,5 +1,8 @@
 Animales:
 Tigre
 León
+Tiburon
+Ballena
 Aguila
 Paloma
+
