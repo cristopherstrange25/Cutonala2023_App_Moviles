@@ -1,3 +1,5 @@
 Plantas:
 Roble
 Rosas
+Girasol
+Milpa
